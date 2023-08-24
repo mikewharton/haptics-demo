@@ -40,7 +40,7 @@ A C# script that controls the behavior of a drill chuck in the Unity scene. It c
 ## Getting Started
 
 1. Open the Unity project.
-2. Set up your microcontroller and touch sensor according to your hardware setup (see [touch-sensor](https://github.com/DMFDML/touch-sensor))
+2. Set up your microcontroller and touch sensor according to your hardware setup (see [touch-sensor](https://github.com/mikewharton/touch-sensor))
 3. Run the `RunESP32.ink` shortcut to launch the Python socket script.
 4. Play the Unity scene to visualise the touch sensor input.
 
